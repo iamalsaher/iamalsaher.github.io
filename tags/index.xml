@@ -2,13 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on iamalsaher</title>
-    <link>/tags/</link>
+    <link>https://iamalsaher.tech/tags/</link>
     <description>Recent content in Tags on iamalsaher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iamalsaher.tech/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CVE</title>
+      <link>https://iamalsaher.tech/tags/cve/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamalsaher.tech/tags/cve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CVE-2019-18634</title>
+      <link>https://iamalsaher.tech/tags/cve-2019-18634/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamalsaher.tech/tags/cve-2019-18634/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LPE</title>
+      <link>https://iamalsaher.tech/tags/lpe/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamalsaher.tech/tags/lpe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POC</title>
+      <link>https://iamalsaher.tech/tags/poc/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamalsaher.tech/tags/poc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privilege Escalation</title>
+      <link>https://iamalsaher.tech/tags/privilege-escalation/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamalsaher.tech/tags/privilege-escalation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://iamalsaher.tech/tags/python/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamalsaher.tech/tags/python/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

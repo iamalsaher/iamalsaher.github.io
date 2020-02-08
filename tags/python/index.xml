@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>iamalsaher</title>
-    <link>https://iamalsaher.tech/</link>
-    <description>Recent content on iamalsaher</description>
+    <title>python on iamalsaher</title>
+    <link>https://iamalsaher.tech/tags/python/</link>
+    <description>Recent content in python on iamalsaher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://iamalsaher.tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iamalsaher.tech/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>https://iamalsaher.tech/posts/2020-02-08-cve-2019-18634/</guid>
       <description>This post is a complete walkthrough for the process of writing an exploit for CVE 2019-18634. I will talk about the methedologies used and why is it such a good bug to begin your real world exploitation skills.  Prelude My journey started with a member in the OpenToAll slack group posting a link for some CVE advisory. Going through the advisory highlights some of the points which made me think I can use this bug for my first CVE POC.</description>
-    </item>
-    
-    <item>
-      <title>iamalsaher</title>
-      <link>https://iamalsaher.tech/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iamalsaher.tech/about/</guid>
-      <description>wannabe finder of vulnerabilties Hi, I am Swapnil aka iamalsaher on most platforms. These posts are gonna describe my journey with Cybersecurity and wherever it takes me. I basically focus on Reverse-Engineering, Vulnerability Analysis and Exploitation. I love writing tools and softwares to automate as much as I can. Feel free to reach out to me.
- Twitter Linkedin GitHub Email  </description>
     </item>
     
   </channel>
