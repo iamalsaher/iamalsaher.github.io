@@ -17,7 +17,7 @@
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://iamalsaher.tech/posts/2020-02-08-cve-2019-18634/</guid>
-      <description>This post is a complete walkthrough for the process of writing an exploit for CVE 2019-18634. I will talk about the methedologies used and why is it such a good bug to begin your real world exploitation skills. This bug allows for Local Privilege Escalation because of a BSS based overflow, which allows for the overwrite of user_details struct with uid 0, essentially escalating your privilege. This bug can be triggered even by users not listed in the sudoers file There is no impact unless pwfeedback has been enabled.</description>
+      <description>This post is a complete walkthrough for the process of writing an exploit for CVE 2019-18634. I will talk about the methodologies used and why is it such a good bug to begin your real world exploitation skills. This bug allows for Local Privilege Escalation because of a BSS based overflow, which allows for the overwrite of user_details struct with uid 0, essentially escalating your privilege. This bug can be triggered even by users not listed in the sudoers file There is no impact unless pwfeedback has been enabled.</description>
     </item>
     
     <item>
