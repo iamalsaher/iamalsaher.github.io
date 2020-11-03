@@ -6,11 +6,7 @@
     <description>Recent content on iamalsaher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://iamalsaher.tech/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://iamalsaher.tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A CVE Journey: From Crash to Local Privilege Escalation</title>
       <link>https://iamalsaher.tech/posts/2020-02-08-cve-2019-18634/</link>
@@ -27,7 +23,7 @@
       
       <guid>https://iamalsaher.tech/about/</guid>
       <description>wannabe finder of vulnerabilties Hi, I am Swapnil aka iamalsaher on most platforms. These posts are gonna describe my journey with Cybersecurity and wherever it takes me. I basically focus on Reverse-Engineering, Vulnerability Analysis and Exploitation. I love writing tools and softwares to automate as much as I can. Feel free to reach out to me.
- Twitter Linkedin GitHub Email  </description>
+ Twitter Linkedin GitHub Email Resume  </description>
     </item>
     
   </channel>
